@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+ a:hover{
+    color: chocolate!important;
+}
+.news-section p{
+    font-size: 1.1rem;
+}
